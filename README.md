@@ -45,13 +45,13 @@ You can either:
 ## Setup Guide (Teach-In / Calibration)
 
 1. Start Observe.
-2. Join an **empty server** (and **avoid a server running `Hill 400`**).
+2. Join an **empty server** (and **avoid a server running the Map `Hill 400`**).
 3. Create a squad.
-   - **Do not** take Commander.
+   - **Do not** take the Commander role.
 4. Spawn in.
 5. Open the map.
 6. Alt-tab out of the game (or place Observe on a second monitor).
-7. Press **`6`** to start **Teach-In** and confirm with **Yes**.
+7. Press **`Teachin`** and confirm with **Yes** to start.
 8. Alt-tab back into the game.
 9. Audio signals:
    - After ~5 seconds: **1× beep** → Teach-In started
@@ -84,7 +84,7 @@ You can either:
 2. Put all screenshots into **one folder**.
 3. In Observe, click **Video Creator**.
 
-Behavior depends on configuration:
+Behavior depends on configuration (see `VarGlobal.vb`):
 - If `WebVideoCreatorEnable = false` → opens the **offline** creator
 - Otherwise → opens the web page (the `auth.php` endpoint of the web video creator)
 
@@ -106,7 +106,7 @@ Behavior depends on configuration:
 - **Teach-In on `Hill 400`** produces false-positive Offset Points (unknown cause).
 - **Commander role is not supported** (Teach-In and Run).
 - Teach-In may fail if:
-  - too many NVIDIA filters are used (detection + video readability suffers)
+  - too heavy NVIDIA filters are used (detection + video readability suffers)
 - If the map is opened **too briefly**, **real in-game** (non-map) screenshots may occur  
   → this can break the final video readability.
 - Changing **Gameplay → “Map Icon Scale”** will affect the rendered video  
@@ -128,7 +128,7 @@ Behavior depends on configuration:
 ### `settings.ini`
 ```ini
 [internal_debug]
-update_updater_timeout=1
-update_timeout=1
-timeout_between_save=5000
-timeout_between_check=250
+update_updater_timeout=1 (without update web service default: 1 | with update web service default: 0)
+update_timeout=1 (without update web service default: 1 | with update web service default: 0)
+timeout_between_save=5000 (default: 5000ms)
+timeout_between_check=250 (default: 250ms)
