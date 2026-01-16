@@ -119,6 +119,7 @@ Behavior depends on configuration (see `VarGlobal.vb`):
   → see `VarGlobal.vb`.
 - Because of the constraints above, some features currently require **debug commands** via `settings.ini`  
   (see below).
+- Some code parts made with AI
 
 ---
 
