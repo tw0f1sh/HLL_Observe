@@ -29,11 +29,11 @@ After the match, players can **collect all screenshots** (from all team members)
       <img src="rm_assets/app_overview.PNG" alt="App overview" width="420">
     </td>
     <td align="center">
-      <img src="rm_assets/vid_creator_overview.PNG" alt="Video creator overview" width="220">
+      <img src="rm_assets/vid_creator_overview.PNG" alt="Video creator overview" width="320">
     </td>
     <td align="center">
       <a href="https://www.youtube.com/shorts/h3dRxYWp3IU">
-    <img src="https://img.youtube.com/vi/h3dRxYWp3IU/hqdefault.jpg" alt="[HLL] Observer Demo" width="400">
+    <img src="https://img.youtube.com/vi/h3dRxYWp3IU/hqdefault.jpg" alt="[HLL] Observer Demo" width="500">
   </a>
   </td>
   </tr>
