@@ -39,6 +39,8 @@ You can either:
 - **Do not play Commander role**  
   The Commander UI shifts the map position; Observe does not support this.
 - Screenshots are captured **only when the map is fully zoomed out**
+- libwebp.dll & libsharpyuv.dll is needed for the webp conversion
+- ffmpeg.exe is needed in the bin folder for the video rendering
 
 ---
 
