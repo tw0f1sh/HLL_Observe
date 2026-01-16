@@ -125,6 +125,7 @@ Behavior depends on configuration (see `VarGlobal.vb`):
 ## Known Issues / Important Notes
 
 - This is a hobby tool — **don’t blame me for code quality**.
+- As more palyers use the tool as better get the framerate and quality (if every player got the same settings and nvidia filters)
 - **Teach-In on `Hill 400`** produces false-positive Offset Points (unknown cause).
 - **Commander role is not supported** (Teach-In and Run).
 - If the Resolution box is empty the tool cant read your HLL GameUserSettings.ini resolution fix the path or change the code (without the game resolution the tool will not work)
