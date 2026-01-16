@@ -130,6 +130,8 @@ Behavior depends on configuration (see `VarGlobal.vb`):
 - If the Resolution box is empty the tool cant read your HLL GameUserSettings.ini resolution fix the path or change the code (without the game resolution the tool will not work)
 - Teach-In may fail if:
   - too heavy NVIDIA filters are used (detection + video readability suffers)
+  - less the 10 offsetpoints got detected
+  - more then 100 offsetpoints got detected
 - If the map is opened **too briefly**, **real in-game** (non-map) screenshots may occur  
   → this can break the final video readability.
 - Changing **Gameplay → “Map Icon Scale”** will affect the rendered video  
