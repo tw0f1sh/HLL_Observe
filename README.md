@@ -158,7 +158,7 @@ Behavior depends on configuration (see `VarGlobal.vb`):
 update_updater_timeout=1 (without update web service default: 1 | with update web service default: 0)
 update_timeout=1 (without update web service default: 1 | with update web service default: 0)
 timeout_between_save=5000 (default: 5000ms)
-timeout_between_check=250 (default: 250ms)
+timeout_between_check=250 (default: 250ms)```
 
 ---
 
