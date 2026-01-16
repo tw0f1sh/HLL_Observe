@@ -26,7 +26,7 @@ After the match, players can **collect all screenshots** (from all team members)
 <table>
   <tr>
     <td align="center">
-      <img src="rm_assets/app_overview.PNG" alt="App overview" width="420">
+      <img src="rm_assets/app_overview.PNG" alt="App overview" width="470">
     </td>
     <td align="center">
       <img src="rm_assets/vid_creator_overview.PNG" alt="Video creator overview" width="320">
