@@ -127,6 +127,7 @@ Behavior depends on configuration (see `VarGlobal.vb`):
 - This is a hobby tool — **don’t blame me for code quality**.
 - **Teach-In on `Hill 400`** produces false-positive Offset Points (unknown cause).
 - **Commander role is not supported** (Teach-In and Run).
+- If the Resolution box is empty the tool cant read your HLL GameUserSettings.ini resolution fix the path or change the code (without the game resolution the tool will not work)
 - Teach-In may fail if:
   - too heavy NVIDIA filters are used (detection + video readability suffers)
 - If the map is opened **too briefly**, **real in-game** (non-map) screenshots may occur  
