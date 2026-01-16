@@ -98,6 +98,10 @@ You can either:
 ### Critical Warning: Warmup / Dry Run
 ✅ Make sure you **do not enable Run during warmup/dry run**, otherwise the final rendered video timeline becomes **wrong / corrupted**.
 
+### Gamecrash / Toolcrash?
+✅ Dont worry the tool will sync every screenshot with an **NTP-Timestamp**, just hit run again and be sure you move the screenshots from the newly created folder to the initial created folder after the match.
+
+
 ---
 
 ## After the Match (Video Rendering)
