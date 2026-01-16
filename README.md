@@ -31,15 +31,13 @@ After the match, players can **collect all screenshots** (from all team members)
     <td align="center">
       <img src="rm_assets/vid_creator_overview.PNG" alt="Video creator overview" width="220">
     </td>
-  </tr>
-</table>
-
-<!-- Below: YouTube video (thumbnail link) -->
-<p align="center">
-  <a href="https://www.youtube.com/shorts/h3dRxYWp3IU">
+    <td align="center">
+      <a href="https://www.youtube.com/shorts/h3dRxYWp3IU">
     <img src="https://img.youtube.com/vi/h3dRxYWp3IU/hqdefault.jpg" alt="[HLL] Observer Demo" width="400">
   </a>
-</p>
+  </td>
+  </tr>
+</table>
 
 ---
 
