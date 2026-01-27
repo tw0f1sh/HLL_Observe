@@ -54,7 +54,7 @@ You can either:
 - **Build from source** (compile the code from GitHub), or
 - Use **precompiled releases**
 
-> The upload server structure/workflow will be published later (planned for GitHub after cleanup).
+> The upload server structure/workflow & Webbased Video Creator are published, see [here](https://github.com/tw0f1sh/HLL_Observe/tree/main?tab=readme-ov-file#other-repos-for-this-tool).
 
 ---
 
