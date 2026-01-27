@@ -9,6 +9,13 @@ After the match, players can **collect all screenshots** (from all team members)
 
 ---
 
+## Other Repos for this Tool
+
+- [**HLL_Observe_WebUploader**](https://github.com/tw0f1sh/HLL_Observe_WebUploader)
+- [**HLL_Observe_WebVideoCreator**](https://github.com/tw0f1sh/HLL_Observe_WebVideoCreator)
+
+---
+
 ## What Observe Does
 
 - No Memory Access!
