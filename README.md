@@ -9,6 +9,12 @@ After the match, players can **collect all screenshots** (from all team members)
 
 ---
 
+<p align="center">
+  <img src="rm_assets/HLL_Observe_SMALL.png" alt="hll_observe" width="370">
+</p>
+
+---
+
 ## Other Repos for this Tool
 
 - [**HLL_Observe_WebUploader**](https://github.com/tw0f1sh/HLL_Observe_WebUploader)
